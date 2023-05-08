@@ -5,7 +5,7 @@ This repository contains a jupyter notebook with python code for creating a Spat
 
 Tyson has the STAC API going. I am trying to manually improve the geojson features. I access it by using VSCode. I ssh remote connect to the 'stac-api' virtual machine. 
 
-We currently have it set up to where `collection.json` and `index.geojson` files are located `/home/ubuntu/cyverse-stac/catalogs`
+We currently have it set up to where `collection.json` and `index.geojson` files are located at `/home/ubuntu/cyverse-stac/catalogs`
 
 I am editing the geojson files at `/home/ubuntu/cyverse-stac/catalogs`. 
 
